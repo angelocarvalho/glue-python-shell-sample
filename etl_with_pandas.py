@@ -3,7 +3,7 @@ from zipfile import ZipFile
 import pandas as pd
 
 #replace just_another_bucket_name by a valid bucket name…
-bucket = "angelo-datalake"
+bucket = "just_another_bucket_name"
 
 # download MovieLens 1M Dataset
 print("downloading file from movielens website...")
